@@ -4,7 +4,7 @@
 //
 //  Created by Jamie Junda on 6/24/15.
 //  Copyright (c) 2015 Jamie Junda. All rights reserved.
-//  This is the View Controller
+//  This is the View Controller :D
 
 import UIKit
 import AVFoundation
